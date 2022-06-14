@@ -1,4 +1,4 @@
-![MasterHead](https://i.makeagif.com/media/8-28-2016/WW-d9I.gif)
+![MasterHead](https://blog.112dijital.com/wp-content/uploads/2018/03/tipografi-hatalari.gif)
 <h1 align="center">Hi 👋, I'm Rodrigo Plauchú Rodríguez</h1>
 <h3 align="center">Mexican Computer Engineer from ITAM</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plauchu&label=Profile%20views&color=0e75b6&style=flat" alt="plauchu" /> </p>
 
-- 🔭 I’m currently working on **Qualitas**
+- 🔭 I’m currently working on **Quálitas Insurance Company**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
