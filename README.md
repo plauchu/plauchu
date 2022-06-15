@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👯 I’m looking to collaborate on **Software Developing**
+- 🤝🏽 I’m looking to collaborate on **Software Developing**
 
 - 💬 Ask me about **Python, Java, Cybersecurity**
 
