@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rplauchur@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3HpokWr](https://bit.ly/3HpokWr)
+- 📄 Know about my experiences [CV_Rodrigo_Plauchu](shorturl.at/hMR56)
 
 - ⚡ Fun fact **Necaxa⚡ is my team**
 
