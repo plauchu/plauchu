@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rplauchur@gmail.com**
 
-- 📄 Know about my experiences(My CV) [shorturl.at/hMR56](shorturl.at/hMR56)
+- 📄 Know about my experiences [My CV](https://shorturl.at/hMR56)
 
 - ⚡ Fun fact **Necaxa⚡ is my team**
 
