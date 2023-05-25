@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plauchu&label=Profile%20views&color=0e75b6&style=flat" alt="plauchu" /> </p>
 
-- 🔭 I’m currently working on **Quálitas Insurance Company**
+- 🔭 I’m currently working on **Delta Protect**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
